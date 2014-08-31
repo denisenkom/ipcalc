@@ -47,4 +47,5 @@ Documentation is available from http://ipcalc.rtfd.org/
       author_email='maze@pyth0n.org',
       url='http://tehmaze.github.com/ipcalc/',
       py_modules=['ipcalc'],
+      use_2to3=True,
       )
