@@ -2,7 +2,7 @@
 
 from distutils.core import setup
 
-setup(name='ipcalc',
+setup(name='ncbi-ipcalc',
       version='1.1.1',
       description='IP subnet calculator',
       long_description='''
